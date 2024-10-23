@@ -1,0 +1,6 @@
+target 'JarvisConsept' do
+  use_frameworks!
+
+pod "Lottie"
+
+end
